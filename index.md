@@ -3,7 +3,7 @@ layout: default
 ---
 {% include nav.html %}
 
-# Summary
+# About Me
 
 **Electrical Engineering & Computer Science (EECS) @ UC Berkeley**
 
