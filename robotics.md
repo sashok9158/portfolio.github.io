@@ -15,7 +15,9 @@ The 2023 season game required a robot capable of manipulating cones and cubes to
 |:---------------------------------|:---------------------------------|
 |![conebot](/images/robot-cone.jpg)|![cubebot](/images/robot-cube.jpg)|
 
-Additionally to Program Manager, I was part of the electrical subteam and directed the wire routing and management from the motors to the Power Distribution Hub (PDH). We initially placed the PDH beneath the drivetrain to maximize chassis space for mechanical scoring mechanisms. This layout made multimeter debugging and signal tracing nearly impossible during competitions. During competition, we ran into many CAN bus errors and lost connection with the drivetrain motors, resulting in the robot spinning uncontrollably. One such instance of this led to our robot knocking over an official camera, and a key learning moment for our 2024 robot.
+Additionally to Program Manager, I was part of the electrical subteam and directed the wire routing and management from the motors to the Power Distribution Hub (PDH). We initially placed the PDH beneath the drivetrain to maximize chassis space for mechanical scoring mechanisms. This layout made multimeter debugging and signal tracing nearly impossible during competitions. 
+
+During competition, we ran into many CAN bus errors and lost connection with the drivetrain motors, resulting in the robot spinning uncontrollably. One such instance of this led to our robot knocking over an official camera, and a key learning moment for our 2024 robot.
 
 ![robot hi](/images/robot-hi.gif)
 
