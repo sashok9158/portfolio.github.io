@@ -22,8 +22,6 @@ Hi! I'm Swetha, an engineer focused on hardware, design, and technical project l
 
 [Society of Women Engineers](https://swe.studentorg.berkeley.edu/)
 
-I joined SWE as soon as I entered college, and found a SWommunity of women in engineering and STEM who inspire me to explore my passions. SWE has helped me grow and thrive at Berkeley while enabling me to give back, both by supporting my peers and encouraging high school girls to pursue STEM and discover their own interests.
-
 - Advocacy Chair
   - Collegiate Representative for the National Disability Inclusion Affinity Group
   - Advocated for underrepresented students in engineering
