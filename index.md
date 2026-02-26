@@ -24,6 +24,7 @@ Hi! I'm Swetha, an engineer focused on hardware, design, and technical project l
 
 Academic Chair (Current)
   - Facilitate mentorship in higher education by connecting undergraduate gender minorities with professors and graduate students.
+
 Advocacy Chair
   - Collegiate Representative for the National Disability Inclusion Affinity Group
   - Revitalized E&I Working Body with the goal of identifying policy improvements to support engineers
