@@ -11,6 +11,8 @@ Hi! I'm Swetha, an engineer focused on hardware, design, and technical project l
 
 ## Technical Skills
 
+[Check out my current projects here!](projects.html)
+
 |Category |	Tools                                                         |
 |:--------|:--------------------------------------------------------------|
 |CAD      |SOLIDWORKS, Fusion 360, Onshape, KiCad, ANSYS (FEA)            |
