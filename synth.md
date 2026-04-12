@@ -15,4 +15,4 @@ The first part of the design is the block diagram, which was then used to find p
 
 |Block Diagram | Schematic|
 |:---------------------------------------|:---------------------------------------|
-|![block diagaram](/images/synth-block) | ![synth schematic](/images/synth-schm)|
+|![block diagaram](/images/synth-schm.png) | ![synth schematic](/images/synth.png)|
