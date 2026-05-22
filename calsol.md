@@ -21,8 +21,6 @@ I coordinate the integration of each subarray into the battery system via MPPTs.
 
 A core part of my technical contributions has been in using ANSYS and SOLIDWORKS to optimize the layout of the ribs and top shell lightening holes. The challenge was to minimize top shell weight while maintaining structural integrity of the top shell and leaving enough area for array attatchment. My simulations allowed us to reduce unnecessary mass within these constraints
 
-Lightening Holes: ![calsol-holes](/images/calsol-holes.png)
-
 ## Array Integration
 
 A major focus of my leadership this Fall is preparing the team for the Spring integration phase through rigorous documentation and training.
