@@ -7,9 +7,7 @@ layout: default
 
 **Course:** Hands-On PCB Engineering DeCal @ UC Berkeley
 
-|Demo |Description|
-|:---------------------------------------|:---------------------------------------|
-|![synth_vid](./synth_vid.mp4) | As part of a student run project course, I am working with 2 partners to build a functional 12 note analog PCB synth. After we collaborated on the schematic and layout of the board, my partners focused on firmware development and software debugging while I executed the soldering, assembly, and hardware bring-up of the board. We then conducted rigorous testing to validate circuit functionality and successfully created the synth.|
+As part of a student run project course, I am working with 2 partners to build a functional 12 note analog PCB synth. After we collaborated on the schematic and layout of the board, my partners focused on firmware development and software debugging while I executed the soldering, assembly, and hardware bring-up of the board. We then conducted rigorous testing to validate circuit functionality and successfully created the synth.|
 
 **Design**
 
@@ -35,5 +33,10 @@ Components:
 
 One challenge I faced was soldering the board. The components we ordered were very small, and I pulled up the trace on a capacitor for the first board I tried to solder. Eventually (with solder paste, heat guns and plenty of flux) I was able to finish soldering and we could move on to testing.
 
-![synth-pic](/images/synth-pic.png) 
+**Demo**
+
+
+https://github.com/user-attachments/assets/1dd62aae-8bad-47fb-8df3-89fdf529ecd7
+
+
 
