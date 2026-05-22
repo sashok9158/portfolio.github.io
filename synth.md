@@ -35,6 +35,6 @@ One challenge I faced was soldering the board. The components we ordered were ve
 
 **Demo**
 
-<video width="1080" height="1920" controls loop="" autoplay="">
+<video width="340" height="604" controls loop="" autoplay="">
     <source src="https://github.com/user-attachments/assets/1dd62aae-8bad-47fb-8df3-89fdf529ecd7" />
 </video>
