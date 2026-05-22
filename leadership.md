@@ -7,12 +7,18 @@ layout: default
 
 [Society of Women Engineers](https://swe.studentorg.berkeley.edu/)
 
+Treasurer:
+  - Oversee budget allocation and financial counseling for 30+ distinct committees, managing tax documentation and 
+swift reimbursement processing for 100+ members.
+  - Coordinates logistics for the annual WE National and Local Conferences while preparing attendees with resources on 
+career fair navigation, interview prep, and networking strategies. 
+
+Previous Roles:
+
 Academic Chair:
   - Facilitate mentorship in higher education by connecting undergraduate gender minorities with professors and graduate students.
   - Organize semesterly professor luncheon and various lab, research and social event to build community.
   - Strengthened cross organizational collaboration in the College of Engineering through social and professional events 
-
-Previous Roles:
 
 Advocacy Chair
   - Previous Collegiate Representative for the National Disability Inclusion Affinity Group
