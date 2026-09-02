@@ -41,4 +41,4 @@ To ensure a solid foundation during our transition to the new project managers, 
 
 - Advanced PV research with faculty
 - Creating a model to optimize bypass diode placement via shading simulations
-- Outreach via mini solar cars, built with simple materials and extra cells the team has ([currently leading this project!](/mini-solar.html))
+- Outreach via mini solar cars, built with simple materials and extra cells the team has ([currently leading this project!](mini-solar.html))
