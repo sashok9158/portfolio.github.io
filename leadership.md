@@ -5,6 +5,16 @@ layout: default
 
 # Leadership and Community Involvement
 
+[ESS Peer Adviser](https://engineering.berkeley.edu/students/advising-counseling/peer-advising/)
+
+EECS Peer Adviser (Fall 2026 - Spring 2027):
+  - Support students in the College of Engineering through their academic and college experience by providing advising about:
+      - Change of Major, Change of College
+      - EECS Major courses, specialized in the hardware concentration
+      - Engineering Science Majors, specialized in Environmental Engineering Science and Energy Engineering
+      - Minors within the College of Engineering
+      - Academic support, extracurriculars, research and internships
+
 [Society of Women Engineers](https://swe.studentorg.berkeley.edu/)
 
 Treasurer:
