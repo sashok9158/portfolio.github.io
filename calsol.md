@@ -5,7 +5,7 @@ layout: default
 
 # Calsol - UC Berkeley Solar Racing Team
 
-As one of two Solar Project Managers, I lead a 20+ member team responsible for the assembly and integration of the vehicle's solar array. 
+Solar Project Manager (Fall 2025 - Spring 2026), I led a 20+ member team responsible for the assembly and integration of the vehicle's solar array. 
 
 ## Solar Array
 
@@ -19,10 +19,26 @@ I coordinate the integration of each subarray into the battery system via MPPTs.
 
 **Design Optimization**
 
-A core part of my technical contributions has been in using ANSYS and SOLIDWORKS to optimize the layout of the ribs and top shell lightening holes. The challenge was to minimize top shell weight while maintaining structural integrity of the top shell and leaving enough area for array attatchment. My simulations allowed us to reduce unnecessary mass within these constraints
+A core part of my technical contributions has been in using ANSYS and SOLIDWORKS to optimize the layout of the ribs and top shell lightening holes. The challenge was to minimize top shell weight while maintaining structural integrity of the top shell and leaving enough area for array attachment. My simulations allowed us to reduce unnecessary mass within these constraints
 
 ## Array Integration
 
-A major focus of my leadership this Fall is preparing the team for the Spring integration phase through rigorous documentation and training.
+A major focus of my leadership in the Fall was preparing the team for the Spring integration phase through rigorous documentation and training.
 
-I coodinate training for the subteam in hardware skills, including cutting the top shell lightening holes, soldering bypass diodes, and sealing the array. I am arranging a small scale array integration practice with leftover sections of the top shell and extra solar cells, so everyone gets a feel for how it should be.
+I coordinated training for the subteam in hardware skills, including cutting the top shell lightening holes, soldering bypass diodes, and sealing the array. I arranged a small scale array integration practice with leftover sections of the top shell and extra solar cells to ensure everyone had experience working with the cells ahead of our new car.
+
+## Managing Spring Semester Racing Pivot
+
+In the spring, the team strategically pivoted to optimizing the existing Gen X car, Excalibur, to maximize our winning chances, halting execution on the Gen XI car and leaving the solar subteam without an immediate manufacturing timeline.
+
+Since my subteam members joined to work on the solar end of the car, I refused to assign busy work in order respect their time and commitment. My co-PM and I shifted the sub-team’s focus toward long term innovation and process improvement, through:
+
+- feasibility research into in-house cell encapsulation techniques
+- designed and executed comprehensive mock integrations
+- researching current improvements to technology we use, including researching other solar car teams.
+
+To ensure a solid foundation during our transition to the new project managers, I spoke with alumni, faculty and senior members to come up with a project roadmap for beyond Gen XI, including:
+
+- Advanced PV research with faculty
+- Creating a model to optimize bypass diode placement via shading simulations
+- Outreach via mini solar cars, built with simple materials and extra cells the team has ([currently leading this project!](/mini-solar.html))
