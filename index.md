@@ -5,9 +5,9 @@ layout: default
 
 # About Me
 
-**Electrical Engineering & Computer Science (EECS) @ UC Berkeley**
+**UC Berkeley - B.S. Electrical Engineering & Computer Science, Minor in Energy Engineering**
 
-Hi! I'm Swetha, an engineer focused on hardware, design, and technical project leadership. Drawing from my background in energy and robotics, I am passionate about solving problems at the intersection of reliable, sustainable, and human-centered engineering.
+Hi! I'm Swetha, an engineer focused on IC design and technical project leadership. Drawing from my background in energy and robotics, I am passionate about solving problems at the intersection of reliable, sustainable, and human-centered engineering.
 
 ## Technical Skills
 
