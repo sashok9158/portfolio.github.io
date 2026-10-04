@@ -7,14 +7,14 @@ layout: default
 
 **UC Berkeley - B.S. Electrical Engineering & Computer Science, Minor in Energy Engineering**
 
-Hi! I'm Swetha, an engineer focused on IC design and technical project leadership. Drawing from my background in energy and robotics, I am passionate about solving problems at the intersection of reliable, sustainable, and human-centered engineering.
+Hi! I'm Swetha, an engineer focused on hardware bringup, embedded systems and technical project leadership. Drawing from my background in energy and robotics, I am passionate about solving problems at the intersection of reliable, sustainable, and human-centered engineering.
 
 ## Technical Skills
 
 |Category |	Tools                                                         |
 |:--------|:--------------------------------------------------------------|
 |CAD      |SOLIDWORKS, Fusion 360, Onshape, KiCad, ANSYS (FEA)            |
-|Hardware	|IC Fabrication (in progress), PCB Design, Soldering, Multimeter Debugging, Sensor Integration|
+|Hardware	|IC Fabrication (in progress), PCB Design, Soldering, Multimeter Debugging, parameter and spectrum analyzers|
 |Software	|Python, Java, C (Spring '26), GitHub, LaTeX, MS Suite          |
 
 Currently taking EE 105 (Microelectronic Devices) to build my foundation in devices and EE 143 (Microfabrication Technology) where I will be fabricating an integrated circuit on a silicon wafer!
