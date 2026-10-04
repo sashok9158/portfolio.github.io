@@ -14,7 +14,7 @@ Hi! I'm Swetha, an engineer focused on hardware bringup, embedded systems and te
 |Category |	Tools                                                         |
 |:--------|:--------------------------------------------------------------|
 |CAD      |SOLIDWORKS, Fusion 360, Onshape, KiCad, ANSYS (FEA)            |
-|Hardware	|IC Fabrication (in progress), PCB Design, Soldering, Multimeter Debugging, parameter and spectrum analyzers|
+|Hardware	|IC Fabrication (in progress), PCB Design, Soldering, Multimeter Debugging, LTSPICE simulations, parameter and spectrum analyzers|
 |Software	|Python, Java, C (Spring '26), GitHub, LaTeX, MS Suite          |
 
 Currently taking EE 105 (Microelectronic Devices) to build my foundation in devices and EE 143 (Microfabrication Technology) where I will be fabricating an integrated circuit on a silicon wafer!
