@@ -29,12 +29,12 @@ I coordinated training for the subteam in hardware skills, including cutting the
 
 ## Managing Spring Semester Racing Pivot
 
-In the spring, the team strategically pivoted to optimizing the existing Gen X car, Excalibur, to maximize our winning chances, halting execution on the Gen XI car and leaving the solar subteam without an immediate manufacturing timeline.
+In the spring, the team strategically pivoted to optimizing the existing Gen X car, Excalibur, to maximize our competition winning chances. As a result, we temporarily paused manufacturing on the Gen XI car. 
 
-Since my subteam members joined to work on the solar end of the car, I refused to assign busy work in order respect their time and commitment. My co-PM and I shifted the sub-team’s focus toward long term innovation and process improvement, through:
+To maintain subteam engagement, maximize technical growth, and leverage this period productively, I restructured our subteam’s focus toward high-impact R&D, long-term technological innovation, and process improvement. Some of these initiatives were:
 
-- feasibility research into in-house cell encapsulation techniques
-- designed and executed comprehensive mock integrations
+- feasibility research into in-house PV cell encapsulation techniques
+- designed and executed comprehensive mock integrations, as well as pinpointing steps we could optimize and how.
 - researching current improvements to technology we use, including researching other solar car teams.
 
 To ensure a solid foundation during our transition to the new project managers, I spoke with alumni, faculty and senior members to come up with a project roadmap for beyond Gen XI, including:
